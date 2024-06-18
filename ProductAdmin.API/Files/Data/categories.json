@@ -1,0 +1,42 @@
+[
+  {
+    "CategoryId": 1,
+    "Name": "Electronics",
+    "Description": "Consumer electronic products"
+  },
+  {
+    "CategoryId": 2,
+    "Name": "Clothing",
+    "Description": "Apparel for men, women, and children"
+  },
+  {
+    "CategoryId": 3,
+    "Name": "Books",
+    "Description": "Books of various literary genres"
+  },
+  {
+    "CategoryId": 4,
+    "Name": "Sports",
+    "Description": "Sports items and equipment"
+  },
+  {
+    "CategoryId": 5,
+    "Name": "Toys",
+    "Description": "Toys and games for children"
+  },
+  {
+    "CategoryId": 6,
+    "Name": "Home",
+    "Description": "Home and decor items"
+  },
+  {
+    "CategoryId": 7,
+    "Name": "Tools",
+    "Description": "Tools and equipment for DIY projects"
+  },
+  {
+    "CategoryId": 8,
+    "Name": "Health and Beauty",
+    "Description": "Personal care and beauty products"
+  }
+]
